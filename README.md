@@ -1,7 +1,5 @@
-```markdown
 # CSC_5RO05 - Travaux Dirigés
 
-```
 ```
 CSC_5RO05/
 ├── TD1
